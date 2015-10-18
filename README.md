@@ -1,14 +1,16 @@
 # example-seesaw-jfx
 
-A Clojure library designed to ... well, that part is up to you.
+@mnzktw さんの記事のサンプルをleiningenプロジェクト化
+http://mnzk.hatenablog.com/entry/2013/06/05/025622
+
+jdk-8u60-macosxで動作確認済み
 
 ## Usage
 
-FIXME
+```(bash)
+lein run
+```
 
 ## License
 
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+原作と同じ
